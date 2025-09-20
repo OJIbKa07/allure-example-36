@@ -10,8 +10,8 @@ import org.junit.jupiter.api.Test;
 /**
  * @author eroshenkoam (Artem Eroshenko).
  */
-@Layer("oPalushina")
-@Owner("eroshenkoam")
+@Layer("web")
+@Owner("oPalushina")
 @Feature("Issues")
 public class IssuesWebTest {
 

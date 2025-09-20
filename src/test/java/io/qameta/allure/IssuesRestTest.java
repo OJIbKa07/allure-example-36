@@ -6,7 +6,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
 @Layer("rest")
-@Owner("baev")
+@Owner("oPalushina")
 @Feature("Issues")
 public class IssuesRestTest {
 

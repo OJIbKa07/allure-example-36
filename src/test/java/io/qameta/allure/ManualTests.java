@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import static io.qameta.allure.Allure.step;
 
 @Layer("web")
-@Owner("NeverFlyDog")
+@Owner("oPalushina")
 @Feature("Authorization")
 public class ManualTests {
 
